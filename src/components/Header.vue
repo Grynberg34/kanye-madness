@@ -1,7 +1,7 @@
 <template>
     <div class="header">
         <h1 class="header__title">Kanye West</h1> 
-        <h2 class="header__subtitle">Madness Bracket Generator</h2>
+        <h2 class="header__subtitle">Bracket Generator</h2>
         <Champion />
     </div>
 </template>

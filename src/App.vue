@@ -11,7 +11,7 @@ export default {
 
   name: 'App',
   metaInfo: {
-    title: 'Kanye Madness Bracket',
+    title: 'Kanye Bracket Generator',
   },
   components: {
     Home
