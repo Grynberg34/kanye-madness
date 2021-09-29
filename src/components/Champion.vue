@@ -1,7 +1,8 @@
 <template>
 
     <div>
-        <div v-bind:style="{ backgroundColor: getChampion.background, color: getChampion.text }" class="track" :id="getChampion.id">{{getChampion.name}}
+        <div v-bind:style="{ backgroundColor: getChampion.background, color: getChampion.text }" class="track" :id="getChampion.id">
+            <h1>{{getChampion.name}}</h1>
             <img src="/crown.png" alt="">
         </div>
     </div>
@@ -25,11 +26,20 @@
     img {
         width: 25%;
         position: absolute;
-        top: -34%;
+        top: -38%;
         right: -7%;
     }
 
+    h1 {
+        font-size: 14px;
+        font-weight: 800;
+        align-self: center;
+        margin-bottom: 0;
+        text-align: center;
+    }
+
     .track {
+        display: flex;
         position: relative;
         padding: 2vw;
         margin-bottom: 1vw;
@@ -39,13 +49,15 @@
         margin-left: auto;
         margin-right: auto;
         border-radius: 12px;
+        justify-content: center;
+        height: 4vw;
     }
 
     @media only screen and (max-width: 767px) {
 
         .track {
             width: 54%;
-            padding: 8vw;
+            height: 16vw;
         }
 
     }
