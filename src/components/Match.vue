@@ -99,6 +99,7 @@
         margin-bottom: 0;
         align-self: center;
         font-weight: 500;
+        user-select: none;
     }
 
     @media only screen and (max-width: 767px) {
