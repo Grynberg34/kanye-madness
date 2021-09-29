@@ -27,7 +27,7 @@ export default {
 
   #app {
     font-family: 'Jost', sans-serif;
-    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%,rgba(255, 255, 255, 0.9) 100%), url('/background.png');
+    background: linear-gradient(to bottom, rgba(255, 255, 255, 0.9) 0%,rgba(255, 255, 255, 0.9) 100%), url('/background.jpg');
     background-size: cover;
     background-attachment: fixed;
   }
