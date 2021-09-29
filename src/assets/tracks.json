@@ -1,0 +1,1096 @@
+[
+    {
+        "id": 1,
+        "name": "We Don't Care",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 2,
+        "name": "All Falls Down",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 3,
+        "name": "Spaceship",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 4,
+        "name": "Jesus Walks",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {   
+        "id": 5,
+        "name": "Never Let Me Down",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 6,
+        "name": "Get Em High",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 7,
+        "name": "The New Workout Plan",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 8,
+        "name": "Slow Jamz",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 9,
+        "name": "Breathe In Breathe Out",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 10,
+        "name": "School Spirit",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 11,
+        "name": "Two Words",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 12,
+        "name": "Through the Wire",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 13,
+        "name": "Family Business",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 14,
+        "name": "Last Call",
+        "album": "College Dropout",
+        "background": "#3a070c",
+        "text": "#f49311"
+    },
+    {
+        "id": 15,
+        "name": "Heard 'Em Say",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 16,
+        "name": "Touch the Sky",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 17,
+        "name": "Gold Digger",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 18,
+        "name": "Drive Slow",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 19,
+        "name": "My Way Home",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 20,
+        "name": "Crack Music",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 21,
+        "name": "Roses",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 22,
+        "name": "Bring Me Down",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 23,
+        "name": "Addiction",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 24,
+        "name": "Diamonds from Sierra Leone (Remix)",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 25,
+        "name": "We Major",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 26,
+        "name": "Hey Mama",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 27,
+        "name": "Celebration",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 28,
+        "name": "Gone",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 29,
+        "name": "Diamonds from Sierra Leone",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 30,
+        "name": "Late",
+        "album": "Late Registration",
+        "background": "#030504",
+        "text": "#739aab"
+    },
+    {
+        "id": 31,
+        "name": "Good Morning",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 32,
+        "name": "Champion",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 33,
+        "name": "Stronger",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 34,
+        "name": "I Wonder",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 35,
+        "name": "Good Life",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 36,
+        "name": "Can't Tell Me Nothing",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 37,
+        "name": "Barry Bonds",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 38,
+        "name": "Drunk and Hot Girls",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 39,
+        "name": "Flashing Lights",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 40,
+        "name": "Everything I Am",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 41,
+        "name": "The Glory",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 42,
+        "name": "Homecoming",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 43,
+        "name": "Big Brother",
+        "album": "Graduation",
+        "background": "#703288",
+        "text": "#db259e"
+    },
+    {
+        "id": 44,
+        "name": "Say You Will",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 45,
+        "name": "Welcome to Heartbreak",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 46,
+        "name": "Heartless",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 47,
+        "name": "Amazing",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 48,
+        "name": "Love Lockdown",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 49,
+        "name": "Paranoid",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 50,
+        "name": "RoboCop",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 51,
+        "name": "Street Lights",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 52,
+        "name": "Bad News",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 53,
+        "name": "See You in My Nightmares",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 54,
+        "name": "Coldest Winter",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 55,
+        "name": "Pinocchio Story",
+        "album": "808s & Heartbreak",
+        "background": "#cadfdf",
+        "text": "#e21400"
+    },
+    {
+        "id": 56,
+        "name": "Dark Fantasy",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 57,
+        "name": "Gorgeous",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 58,
+        "name": "POWER",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 59,
+        "name": "All of the Lights",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 60,
+        "name": "Monster",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 61,
+        "name": "So Appalled",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 62,
+        "name": "Devil in  New Dress",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 63,
+        "name": "Runaway",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 64,
+        "name": "Hell of a Life",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 65,
+        "name": "Blame Game",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 66,
+        "name": "Lost in the World",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 67,
+        "name": "Who Will Survive in America",
+        "album": "My Beautiful Twisted Dark Fantasy",
+        "background": "#bd0225",
+        "text": "#eca137"
+    },
+    {
+        "id": 68,
+        "name": "No Church in the Wild",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 69,
+        "name": "Lift Off",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 70,
+        "name": "N** in Paris",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 71,
+        "name": "Otis",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 72,
+        "name": "Gotta Have It",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 73,
+        "name": "New Day",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 74,
+        "name": "That's My Bitch",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 75,
+        "name": "Who Gon Stop Me",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 76,
+        "name": "Murder to Excellence",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 77,
+        "name": "Welcome to the Jungle",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 78,
+        "name": "Made in America",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 79,
+        "name": "Why I Love You",
+        "album": "Watch the Throne",
+        "background": "#a17d41",
+        "text": "#faecbf"
+    },
+    {
+        "id": 80,
+        "name": "On Sight",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 81,
+        "name": "Black Skinhead",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 82,
+        "name": "I Am a God",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 83,
+        "name": "New Slaves",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 84,
+        "name": "Hold My Liquor",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 85,
+        "name": "Blood on the Leaves",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 86,
+        "name": "Guilt Trip",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 87,
+        "name": "Send It Up",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 88,
+        "name": "Bound 2",
+        "album": "Yeezus",
+        "background": "#fe0000",
+        "text": "#d3d4d9"
+    },
+    {
+        "id": 89,
+        "name": "Ultralight Beam",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 90,
+        "name": "Father Strech My Hands, Pt.1",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 91,
+        "name": "Pt. 2",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 92,
+        "name": "Famous",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 93,
+        "name": "Feedback",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 94,
+        "name": "Low Lights",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 95,
+        "name": "Highlights",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 96,
+        "name": "Freestyle 4",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 97,
+        "name": "Waves",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 98,
+        "name": "FML",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 99,
+        "name": "Real Friends",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 100,
+        "name": "Wolves",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 101,
+        "name": "Frank's Track",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 102,
+        "name": "30 Hours",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 103,
+        "name": "No More Parties in LA",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 104,
+        "name": "Facts",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 105,
+        "name": "Fade",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 106,
+        "name": "Saint Pablo",
+        "album": "The Life of Pablo",
+        "background": "#f58b57",
+        "text": "#0e0807"
+    },
+    {
+        "id": 107,
+        "name": "I Thought About Killing You",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 108,
+        "name": "Yikes",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 109,
+        "name": "All Mine",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 110,
+        "name": "Wouldn't Leave",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 111,
+        "name": "No Mistakes",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 112,
+        "name": "Ghost Town",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 113,
+        "name": "Violent Crimes",
+        "album": "Ye",
+        "background": "#1d314c",
+        "text": "#45cd78"
+    },
+    {
+        "id": 114,
+        "name": "Feel the Love",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 115,
+        "name": "Fire",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 116,
+        "name": "4th Dimension",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 117,
+        "name": "Freeee",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 118,
+        "name": "Reborn",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 119,
+        "name": "Kids See Ghosts",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 120,
+        "name": "Cudi Montage",
+        "album": "Kids See Ghosts",
+        "background": "#7dada9",
+        "text": "#f14154"
+    },
+    {
+        "id": 121,
+        "name": "Every Hour",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 122,
+        "name": "Selah",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 123,
+        "name": "Follow God",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 124,
+        "name": "Closed on Sunday",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 125,
+        "name": "On God",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 126,
+        "name": "Everything We Need",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 127,
+        "name": "Water",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 128,
+        "name": "God Is",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 129,
+        "name": "Hands On",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 130,
+        "name": "Use This Gospel",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 131,
+        "name": "Jesus is Lord",
+        "album": "Jesus is King",
+        "background": "#0421bd",
+        "text": "#ffffff"
+    },
+    {
+        "id": 132,
+        "name": "Jail",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 133,
+        "name": "God Breathed",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 134,
+        "name": "Off the Grid",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 135,
+        "name": "Hurricane",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 136,
+        "name": "Praise God",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 137,
+        "name": "Jonah",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 138,
+        "name": "Ok Ok",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 139,
+        "name": "Junya",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 140,
+        "name": "Believe What I Say",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 141,
+        "name": "24",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 142,
+        "name": "Remote Control",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 143,
+        "name": "Moon",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 144,
+        "name": "Heaven and Hell",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 145,
+        "name": "Keep My Spirit Alive",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 146,
+        "name": "Jesus Lord",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 147,
+        "name": "New Again",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 148,
+        "name": "Tell the Vision",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 149,
+        "name": "Lord I Need You",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 150,
+        "name": "Pure Souls",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 151,
+        "name": "Come to Life",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 152,
+        "name": "No Child Left Behind",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 153,
+        "name": "Jail, Pt. 2",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+    {
+        "id": 154,
+        "name": "Ok Ok, Pt. 2",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+
+    {
+        "id": 155,
+        "name": "Junya, Pt. 2",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    },
+
+    {
+        "id": 156,
+        "name": "Jesus Lord, Pt. 2",
+        "album": "Donda",
+        "background": "#000000",
+        "text": "#ffffff"
+    }
+]
